@@ -1,0 +1,52 @@
+{
+ "work": "気多宮歌合",
+ "work_id": "gunsho08-keta-no-miya",
+ "repo": "kumoi-no-fumigura/keta-no-miya-utaawase",
+ "yomi": "けたのみやうたあわせ",
+ "category": "歌合",
+ "description": null,
+ "editions": [
+  {
+   "pid": "1879502",
+   "title": "群書類従 第八輯",
+   "editor": "塙保己一 編",
+   "series": "",
+   "publisher": "経済雑誌社",
+   "year": 1899,
+   "pages": "p33-33",
+   "url": "https://dl.ndl.go.jp/pid/1879502"
+  }
+ ],
+ "status": "未校正（NDL 全文 OCR のまま。ルビ・柱・誤認識を含む）",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "translation": null,
+ "blocks": [
+  {
+   "id": "gunsho08-keta-no-miya-0001",
+   "pid": "1879502",
+   "pages": [
+    33
+   ],
+   "text": "群書類從卷第百八十二撿技保己-集和歌部卅七歌合三氣多宮歌合延久四年ニ月十九日國司通〓舊本行書躰〕宗朝臣於社頭合之題卯のはなのをりはかりこそ山里のかきねの山は一重みえける雪勝つきもせす越のしらねに年積る雪は常盤のものにそありける郭公明方にほのめくこゑは時鳥ねさめのこひのこ〓ちこそすれ千鳥ねさめする有明かたの淋しさにさほのかはらの千鳥なく也",
+   "poems": [],
+   "lb": []
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "gunsho08-keta-no-miya",
+  "work": "気多宮歌合",
+  "yomi": "けたのみやうたあわせ",
+  "category": "歌合",
+  "era": "延久4年（1072）",
+  "author": "",
+  "blocks": 1,
+  "chars": 169,
+  "poems": 0,
+  "editions": 1,
+  "updated": "2026-10-29",
+  "updated_at": "2026-10-29T18:31:57+09:00"
+ }
+}
