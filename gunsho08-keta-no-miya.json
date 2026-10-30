@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/keta-no-miya-utaawase",
  "yomi": "けたのみやうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "延久4年（1072）",
+  "author": "主催 藤原通宗",
+  "desc": "国司藤原通宗が気多宮の社頭で催した歌合。本文には卯花・雪・郭公・千鳥の四首だけが残る。"
+ },
  "editions": [
   {
    "pid": "1879502",
